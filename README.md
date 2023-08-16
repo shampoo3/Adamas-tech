@@ -1,1 +1,1 @@
-# Adamas-tech
+# spatie package used
